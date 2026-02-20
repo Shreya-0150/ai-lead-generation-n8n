@@ -32,4 +32,4 @@ and personalized outreach messages — all saved to Google Sheets.
 
 ## Template on n8n
 
-Coming soon on the official n8n template library.
+Can find this template on the official n8n template library.
